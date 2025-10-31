@@ -20,15 +20,9 @@ Instead of traditional “defense-in-depth” that often hides shared dependenci
 No single breach should improve the attacker’s odds against the rest of the system.
 This release establishes the foundation for an open, measurable, and verifiable security standard grounded in mathematical independence and provable trust separation.
 
-Understood — the “Blueprint Overview” I gave you looked great conversationally but wasn't **pure MD-safe** and therefore breaks GitHub formatting.
-
-Below is a **clean, GitHub-compliant Markdown version**, no HTML blocks, no emoji dependencies, no fragile formatting.
-
-You can paste it **directly into your README.md** right below the executive statement.
-
 ---
 
-## Blueprint Overview — Coprime-Factor Security Architecture (V0)
+## Blueprint Overview — Coprime-Factor Security Architecture (v0.1)
 
 The Coprime-Factor Security Architecture establishes a provable security model where each protection layer is engineered to be **mathematically independent**, eliminating shared catastrophic dependencies across:
 
