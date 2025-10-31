@@ -12,8 +12,7 @@
 
 <div align="left">
 
-  ### Summary
-**AxoDen Labs introduces a new discipline in security architecture:**
+### AxoDen Labs introduces a new discipline in security architecture
 Coprime-Factor Security — where defense layers are engineered to be mathematically independent in their failure modes, analogous to coprime factors in number theory.
 Instead of traditional “defense-in-depth” that often hides shared dependencies, this architecture systematically eliminates common-mode risks across cryptography, trust roots, runtime environments, supply chains, and control planes.
 
@@ -33,3 +32,10 @@ This release establishes the foundation for an open, measurable, and verifiable 
 - License: CC-BY-4.0
 - Status: Research Release V0
 - Contributions, reviews, and academic collaboration welcome.
+
+### Governance & Evolution
+- V0.1: Defensive disclosure + blueprint + CSAF skeleton
+- V0.2: Independence test suite + schema
+- V0.5: Reference implementation + certification rubric
+- V1.0: Standard ratification candidate
+- Change model: Open change proposals (AXO-RFC process)
