@@ -1,0 +1,2 @@
+Initial public disclosure prepared on 2025-10-31T15:26:44.269301Z.
+Include git commit hash, tag, and external timestamp/DOI upon publishing.
