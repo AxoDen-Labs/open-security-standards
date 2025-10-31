@@ -101,7 +101,7 @@ This moves beyond traditional “defense-in-depth” toward **measurable, indepe
 
 Complete specification, rationale, mechanisms, and math:
 
-**[`coprime-security/blueprint-v0.1.md`](./coprime-security/blueprint-v0.1.md)**
+**[`coprime-security/blueprint-v0.2.md`](./coprime-security/blueprint-v0.2.md)**
 
 ---
 
