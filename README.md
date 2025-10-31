@@ -10,6 +10,7 @@
 [![Standard Track](https://img.shields.io/badge/track-Open%20Standard-6f42c1)]()
 [![Field: Security Architecture](https://img.shields.io/badge/domain-Cybersecurity-green)]()
 
+<div align="left">
 **AxoDen Labs introduces a new discipline in security architecture:**
 Coprime-Factor Security — where defense layers are engineered to be mathematically independent in their failure modes, analogous to coprime factors in number theory.
 Instead of traditional “defense-in-depth” that often hides shared dependencies, this architecture systematically eliminates common-mode risks across cryptography, trust roots, runtime environments, supply chains, and control planes.
