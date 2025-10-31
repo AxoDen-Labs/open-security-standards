@@ -1,10 +1,3 @@
-**AxoDen Labs is establishing a new paradigm in security engineering:**
-
-Security layers designed like coprime factors — mathematically independent,
-meaning no shared catastrophic dependencies and no correlated failure paths.
-
-This release makes the architecture publicly verifiable, open, and evolvable.
-
 <div align="center">
 
 # Coprime-Factor Security Architecture  
@@ -17,10 +10,13 @@ This release makes the architecture publicly verifiable, open, and evolvable.
 [![Standard Track](https://img.shields.io/badge/track-Open%20Standard-6f42c1)]()
 [![Field: Security Architecture](https://img.shields.io/badge/domain-Cybersecurity-green)]()
 
-> “Defense-in-depth is useful.  
-> **Provably independent defense layers are transformative.**”
+**AxoDen Labs introduces a new discipline in security architecture:**
+Coprime-Factor Security — where defense layers are engineered to be mathematically independent in their failure modes, analogous to coprime factors in number theory.
+Instead of traditional “defense-in-depth” that often hides shared dependencies, this architecture systematically eliminates common-mode risks across cryptography, trust roots, runtime environments, supply chains, and control planes.
 
-</div>
+**The objective is clear:**
+No single breach should improve the attacker’s odds against the rest of the system.
+This release establishes the foundation for an open, measurable, and verifiable security standard grounded in mathematical independence and provable trust separation.
 
 ### Contents
 - Defensive Publication  
@@ -29,3 +25,8 @@ This release makes the architecture publicly verifiable, open, and evolvable.
 - Independence Scoring  
 - Verification Roadmap
 
+**Original Research by: AxoDen Labs**
+Standard Track: CSAF — Coprime Security Architecture Framework
+License: CC-BY-4.0
+Status: Research Release V0
+Contributions, reviews, and academic collaboration welcome.
