@@ -22,7 +22,7 @@ This release establishes the foundation for an open, measurable, and verifiable 
 
 ---
 
-## Blueprint Overview — Coprime-Factor Security Architecture (v0.1)
+## Blueprint Overview — Coprime-Factor Security Architecture (v0.2)
 
 The Coprime-Factor Security Architecture establishes a provable security model where each protection layer is engineered to be **mathematically independent**, eliminating shared catastrophic dependencies across:
 
