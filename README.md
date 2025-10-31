@@ -1,3 +1,10 @@
+**AxoDen Labs is establishing a new paradigm in security engineering:**
+
+Security layers designed like coprime factors — mathematically independent,
+meaning no shared catastrophic dependencies and no correlated failure paths.
+
+This release makes the architecture publicly verifiable, open, and evolvable.
+
 <div align="center">
 
 # Coprime-Factor Security Architecture  
